@@ -251,16 +251,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="505.12607"
-     inkscape:cy="135.3425"
+     inkscape:zoom="1.4"
+     inkscape:cx="511.05577"
+     inkscape:cy="147.83625"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="1984"
-     inkscape:window-x="-16"
-     inkscape:window-y="3584"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1215">
@@ -270,7 +270,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -279,6 +279,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-127.10399,-37.639266)">
+    <rect
+       style="fill:#00acc8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect835-1-8-9-3-6"
+       width="39.555889"
+       height="14.967093"
+       x="-166.90988"
+       y="61.915886"
+       transform="scale(-1,1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -304,19 +312,19 @@
        y="77.009827" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;"
        x="146.47418"
        y="67.570053"
        id="text817"><tspan
          sodipodi:role="line"
          x="146.47418"
          y="67.570053"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;fill:#ffffff;fill-opacity:1;"
          id="tspan819">Built</tspan><tspan
          sodipodi:role="line"
          x="146.47418"
          y="74.62561"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;fill:#ffffff;fill-opacity:1;"
          id="tspan2045">Environment</tspan></text>
     <path
        sodipodi:nodetypes="cc"
@@ -460,14 +468,6 @@
        height="14.967093"
        x="-166.90988"
        y="91.850075"
-       transform="scale(-1,1)" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect835-1-8-9-3-6"
-       width="39.555889"
-       height="14.967093"
-       x="-166.90988"
-       y="61.915886"
        transform="scale(-1,1)" />
     <path
        sodipodi:nodetypes="cc"

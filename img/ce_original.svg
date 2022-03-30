@@ -786,16 +786,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="497.17882"
-     inkscape:cy="121.6828"
+     inkscape:zoom="1.4"
+     inkscape:cx="533.2292"
+     inkscape:cy="147.71204"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="1984"
-     inkscape:window-x="-16"
-     inkscape:window-y="3584"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -814,6 +814,27 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.0668114,0.10051723)">
+    <rect
+       style="fill:#00acc8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect871"
+       width="39.555893"
+       height="42.629478"
+       x="71.554245"
+       y="35.037483" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect922-7-7-6-6"
+       width="34.457436"
+       height="17.292404"
+       x="73.934891"
+       y="37.951862" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect922-7-7-6-29"
+       width="34.457436"
+       height="17.292404"
+       x="73.934875"
+       y="57.842854" />
     <g
        id="g9856"
        transform="translate(0,-68.153718)">
@@ -965,73 +986,6 @@
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect3824-8-7"
        inkscape:original-d="m 111.04955,56.701998 c 9.85915,-2.64e-4 19.71802,-2.64e-4 29.57664,0" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect871"
-       width="39.555893"
-       height="42.629478"
-       x="71.554245"
-       y="35.037483" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect922-7-7-6-6"
-       width="34.457436"
-       height="17.292404"
-       x="73.934891"
-       y="37.951862" />
-    <g
-       id="g7590"
-       transform="translate(-39.555893,48.452151)">
-      <text
-         id="text918-3"
-         y="13.8325"
-         x="130.39954"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan1360"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-           y="13.8325"
-           x="130.39954"
-           sodipodi:role="line">Social</tspan><tspan
-           id="tspan7557"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-           y="19.56514"
-           x="130.39954"
-           sodipodi:role="line">Control</tspan><tspan
-           id="tspan7559"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-           y="25.297779"
-           x="130.39954"
-           sodipodi:role="line">Expectations</tspan></text>
-      <rect
-         y="9.3907013"
-         x="113.49077"
-         height="17.292404"
-         width="34.457436"
-         id="rect922-7-7-6-29"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="91.262131"
-       y="42.293755"
-       id="text918-3-7"><tspan
-         sodipodi:role="line"
-         x="91.262131"
-         y="42.293755"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1360-6">Cohesion</tspan><tspan
-         sodipodi:role="line"
-         x="91.262131"
-         y="48.026394"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan7557-3">and</tspan><tspan
-         sodipodi:role="line"
-         x="91.262131"
-         y="53.759033"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan7559-2">Trust</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-32)"
@@ -1066,5 +1020,47 @@
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect3824-8-7-9"
        inkscape:original-d="m 181.44762,56.701998 c 9.85915,-2.64e-4 19.71802,-2.64e-4 29.57664,0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="91.262131"
+       y="42.293755"
+       id="text918-3-7"><tspan
+         sodipodi:role="line"
+         x="91.262131"
+         y="42.293755"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1360-6">Cohesion</tspan><tspan
+         sodipodi:role="line"
+         x="91.262131"
+         y="48.026394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7557-3">and</tspan><tspan
+         sodipodi:role="line"
+         x="91.262131"
+         y="53.759033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7559-2">Trust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="90.843643"
+       y="62.284653"
+       id="text918-3"><tspan
+         sodipodi:role="line"
+         x="90.843643"
+         y="62.284653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1360">Social</tspan><tspan
+         sodipodi:role="line"
+         x="90.843643"
+         y="68.017288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7557">Control</tspan><tspan
+         sodipodi:role="line"
+         x="90.843643"
+         y="73.749931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7559">Expectations</tspan></text>
   </g>
 </svg>
