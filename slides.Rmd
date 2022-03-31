@@ -140,8 +140,10 @@ Some environment features foster or inhibit use of space and interaction; this i
    * All violent crime
    * All property crime
 * City of Chicago street network
-* US Census
-   * 9 sociodemographic indicators
+* US Census (9 indicators for 3 factors)
+   * Disadvantage
+   * Instability
+   * Heterogeneity
 
 ]
 .pull-right[
