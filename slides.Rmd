@@ -35,7 +35,7 @@ I conduct theory-driven research on the ways communities respond to crime. As an
 *Collective efficacy is a problem-solving capacity that explains why crime is concentrated in certain neighbourhoods: it influences social control* <sup>1</sup> 
 
 <br>
-![](img/ce_original.svg)
+![](img/ce_original.png)
 
 .footnote[.small[[1] Sampson, Raudenbush, & Earls 1997; Sampson 2012]]
 
@@ -51,7 +51,7 @@ Consistent empirical support across multiple sites and countries
 *The built environment explains why crime is concentrated in particular places within neighbourhoods: it influences opportunity* <sup>1</sup> 
 
 <br>
-![](img/be_re.svg)
+![](img/be_re.png)
 
 .footnote[.small[[1] Cohen & Felson 1979; Sherman, Gartin, & Buerger 1989; Wilcox & Cullen 2018]]
 
@@ -92,7 +92,7 @@ Similarly consistent empirical support
 # Theoretical Model
 
 .image-center[
-![](img/1_basic_model.svg)
+![](img/1_basic_model.png)
 ]
 
 ???
@@ -106,7 +106,7 @@ Some environment features foster or inhibit use of space and interaction; this i
 # Hypotheses
 
 .image-center[
-![](img/hypotheses.svg)
+![](img/hypotheses.png)
 ]
 
 * H1: Some present built environment features are criminogenic
@@ -157,7 +157,7 @@ Work unifies a number of separate data sources.
 # Methods
 
 .image-center[
-![](img/2_longitudinal_models.svg)
+![](img/2_longitudinal_models.png)
 ]
 
 
@@ -174,7 +174,7 @@ Work unifies a number of separate data sources.
 # Key Results
 
 
-.image-center[![](img/3_results.svg)]
+.image-center[![](img/3_results.png)]
 
 
 * H1: Abandoned buildings increase homicide/gun assault and violence<br>&emsp;&thinsp;&thinsp;&nbsp;&nbsp;Commerce increases robbery, violence, and property crimes
@@ -248,7 +248,7 @@ class: inverse
 
 ---
 count: false
-![](./img/crime_model.svg)
+![](./img/crime_model.png)
 
 ---
 count: false
