@@ -25,7 +25,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ???
 
-I do theory-driven research on the ways communities respond to crime. As an example, I am presenting my recent Criminology paper proposing an integrative approach between collective efficacy and opportunity theories of the built environment.
+Thank you for having me, pleasure to be here.
+
+I conduct theory-driven research on the ways communities respond to crime. As an example, I am presenting my recent Criminology paper proposing an integrative approach between collective efficacy and the built environment using routine activities theory.
 
 ---
 # Collective Efficacy
@@ -39,7 +41,7 @@ I do theory-driven research on the ways communities respond to crime. As an exam
 
 ???
 
-Residents can make neighborhoods safer by developing social ties and social capital to bolster collective action against.
+Collective efficacy theory says residents can make neighborhoods safer by developing social ties and social capital to bolster collective action against crime.
 
 Consistent empirical support across multiple sites and countries
 
@@ -55,16 +57,16 @@ Consistent empirical support across multiple sites and countries
 
 ???
 
-> Ross: What features of the neighborhood increase objective opportunities for committing crime?  Answer:  absence of capable guardians (witnesses, etc) and presence of suitable targets
+SOme features of the built environment are criminogenic in the sense that they generate opportunities for crime.
 
 Similarly consistent empirical support
 
 ---
-# The Thesis
+# The Idea
 
 *Given that...*
 
-* Residents recognize some features of the built environment are criminogenic <sup>1</sup>
+* Residents recognize that some features of the built environment are criminogenic <sup>1</sup>
 
    * e.g., abandoned buildings, bars, vacant lots
 
@@ -95,20 +97,33 @@ Similarly consistent empirical support
 ![](img/1_basic_model.svg)
 ]
 
-Hypotheses:
+???
+
+The built environment and collective efficacy predict crime, but past collective efficacy influences the built environment.
+
+Some environment features foster or inhibit use of space and interaction; this impacts social capital foundation of CE
+
+
+---
+# Hypotheses
+
+.image-center[
+![](img/hypotheses.svg)
+]
 
 * H1: Some present built environment features are criminogenic
 
+--
+
 * H2: Past collective efficacy reduces present criminogenic built environment features
+
+--
 
 * H3: Criminogenic features reduce present collective efficacy
 
+--
+
 * Implied: No effect of past collective efficacy on present crime
-
-
-???
-
-H3: Some BE features foster or inhibit use of space and interaction; this impacts social capital foundation of CE
 
 ---
 # Chicago Data
@@ -136,7 +151,7 @@ H3: Some BE features foster or inhibit use of space and interaction; this impact
 
 ???
 
-Work unifies many disparate data sets
+Work unifies a number of separate data sources.
 
 ---
 # Methods
@@ -146,12 +161,12 @@ Work unifies many disparate data sets
 ]
 
 
-* Hierarchical measurement models for collective efficacy
+1. Hierarchical measurement models for collective efficacy
 
-* Piecewise structural equations to test hypotheses
+2. Piecewise structural equations to test hypotheses
 
    * Hierarchical negative binomial (H1) and linear regressions (H2, H3)
-   * D-separation tests of past collective efficacy and present crime (dashed)
+   * D-separation tests of past collective efficacy and each type of present crime (dashed)
 
 ---
 # Key Results
@@ -160,11 +175,15 @@ Work unifies many disparate data sets
 .image-center[![](img/3_results.svg)]
 
 
-* H1: Abandoned buildings predict homicide/gun assault and violence<br>&emsp;&thinsp;&thinsp;&nbsp;&nbsp;Commerce predicts robbery, violence, and property crimes
+* H1: Abandoned buildings increase homicide/gun assault and violence<br>&emsp;&thinsp;&thinsp;&nbsp;&nbsp;Commerce increases robbery, violence, and property crimes
+
+???
+
+Thick lines indicate stronger support.
 
 --
 
-* H2: Past collective efficacy predicts fewer abandoned buildings, commercial destinations, mixed land use, and vacant lots.
+* H2: Past collective efficacy reduces abandoned buildings, commercial destinations, mixed land use, and vacant lots.
 
 --
 
@@ -173,10 +192,15 @@ Work unifies many disparate data sets
 ---
 # Contributions
 
-Implications for control of the built environment:
+Control of the built environment is important:
 
-* Promotes neighbourhood stability, health, and quality of life
+* May promote neighbourhood stability, health, and livability
 * Implicates collective efficacy in segregation, concentrated disadvantage, and public (dis)investment
+
+???
+
+If CE influences the built environment, it may be a mechanism for promoting general neighbourhood wellbeing beyond crime.
+
 
 --
 
@@ -186,18 +210,26 @@ Integrates collective efficacy with existing theory:
 * Political economy of place (e.g. Logan & Molotch 1987)
 * Public social control (e.g. Bursik 1989; Velez 2001)
 
+???
+
+Political economy of place is about assignment process of built environment features
+
+Public social control as ability to secure external resources
+
 --
 
 Sets up future research:
 
 * Vertical theoretical integration---from political economy to the situation
 * Conditions and methods for action to impact built environment
-   * Government and institutional responsiveness
+   * Importance of institutional responsiveness
    * Points of intervention
 
 ???
 
-> Ross: Better future research; what is unpublished / in progress?
+Will be extending this work using new wave of the PHDCN as well as data from Seattle.
+
+Also ties into my new work on Airbnb's and crime in London
 
 ---
 count: false
